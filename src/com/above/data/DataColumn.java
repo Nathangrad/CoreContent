@@ -36,9 +36,9 @@ public class DataColumn {
 	}
 
 	/**
-	 * Get the index of the
+	 * Get the index of the DataColumn
 	 * 
-	 * @return
+	 * @return Returns the 0-based index of the DataColumn
 	 */
 	public int getIndex() {
 		return index;
